@@ -1,0 +1,31 @@
+html
+  head
+    title= "Citadel Base"
+    link(rel="stylesheet", href="/style.css")
+  body
+    table
+      tr
+        th(colspan="2")= baseRange.name
+        each comparison in match[0].comparisons
+          th(colspan="2")= comparison.range
+      each color in match
+        tr
+          td(class="colorName")
+            div= color.name
+            div(class="hexValue")= color.hexColor
+          td
+            div(style='background-color:'+color.hexColor+';width:75px;height:75px')
+          each comparison in color.comparisons
+            td(class="colorName")
+              div= comparison.name
+              div(class="hexValue")= comparison.hexColor
+              div(class="deltaValue")= comparison.delta
+                if comparison.quality === "good"
+                  span(class="good")= "🤩"
+                else if comparison.quality === "ok"
+                  span(class="ok")= "🙂"
+                else
+                  span(class="bad")= "☹"
+            td
+              div(style='background-color:'+comparison.hexColor+';width:75px;height:75px')
+                div(style='background-color:'+color.hexColor+';width:50px;height:50px')

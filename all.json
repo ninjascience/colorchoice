@@ -1,0 +1,6272 @@
+[
+    {
+        "name": "Ceramite White",
+        "hexColor": "#ffffff",
+        "comparisons": [
+            {
+                "name": "White ",
+                "hexColor": "#eef6eb",
+                "delta": "7.27",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Morrow White ",
+                "hexColor": "#fdfbfc",
+                "delta": "1.42",
+                "quality": "good",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Maiden Flesh ",
+                "hexColor": "#f2e0c8",
+                "delta": "7.76",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Pure White",
+                "hexColor": "#ffffff",
+                "delta": "0.00",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Leather White",
+                "hexColor": "#f9f6f1",
+                "delta": "3.13",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Dead White",
+                "hexColor": "#ffffff",
+                "delta": "0.00",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "White",
+                "hexColor": "#ffffff",
+                "delta": "0.00",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Praxeti White (Dry)",
+        "hexColor": "#ffffff",
+        "comparisons": [
+            {
+                "name": "White ",
+                "hexColor": "#eef6eb",
+                "delta": "7.27",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Morrow White ",
+                "hexColor": "#fdfbfc",
+                "delta": "1.42",
+                "quality": "good",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Maiden Flesh ",
+                "hexColor": "#f2e0c8",
+                "delta": "7.76",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Pure White",
+                "hexColor": "#ffffff",
+                "delta": "0.00",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Leather White",
+                "hexColor": "#f9f6f1",
+                "delta": "3.13",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Dead White",
+                "hexColor": "#ffffff",
+                "delta": "0.00",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "White",
+                "hexColor": "#ffffff",
+                "delta": "0.00",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "White Scar (Layer)",
+        "hexColor": "#ffffff",
+        "comparisons": [
+            {
+                "name": "White ",
+                "hexColor": "#eef6eb",
+                "delta": "7.27",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Morrow White ",
+                "hexColor": "#fdfbfc",
+                "delta": "1.42",
+                "quality": "good",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Maiden Flesh ",
+                "hexColor": "#f2e0c8",
+                "delta": "7.76",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Pure White",
+                "hexColor": "#ffffff",
+                "delta": "0.00",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Leather White",
+                "hexColor": "#f9f6f1",
+                "delta": "3.13",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Dead White",
+                "hexColor": "#ffffff",
+                "delta": "0.00",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "White",
+                "hexColor": "#ffffff",
+                "delta": "0.00",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Mournfang Brown",
+        "hexColor": "#650a09",
+        "comparisons": [
+            {
+                "name": "Warlock Purple ",
+                "hexColor": "#740d10",
+                "delta": "5.36",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Sanguine Base ",
+                "hexColor": "#67120d",
+                "delta": "4.10",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Crimson Red ",
+                "hexColor": "#721213",
+                "delta": "5.03",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Bloodstain Red",
+                "hexColor": "#680001",
+                "delta": "0.40",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Crimson Red",
+                "hexColor": "#6e0f11",
+                "delta": "4.20",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Terracota",
+                "hexColor": "#6b1306",
+                "delta": "6.13",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "German Cam. Medium Brown",
+                "hexColor": "#722b2f",
+                "delta": "9.16",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Tuskgor Fur (Layer)",
+        "hexColor": "#883736",
+        "comparisons": [
+            {
+                "name": "Rust ",
+                "hexColor": "#884439",
+                "delta": "10.13",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Skorne Red ",
+                "hexColor": "#ad1e22",
+                "delta": "8.93",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Ruddy Brown ",
+                "hexColor": "#722314",
+                "delta": "16.87",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Chestnut Brown",
+                "hexColor": "#7f433b",
+                "delta": "4.19",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Deadrose Red",
+                "hexColor": "#9a302a",
+                "delta": "5.32",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Heavy Red",
+                "hexColor": "#943238",
+                "delta": "2.92",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Cavalry Brown",
+                "hexColor": "#853f3d",
+                "delta": "2.38",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Wild Rider Red (Layer)",
+        "hexColor": "#eb2e28",
+        "comparisons": [
+            {
+                "name": "Blood Red ",
+                "hexColor": "#d02839",
+                "delta": "8.67",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Khador Red Base ",
+                "hexColor": "#ec2822",
+                "delta": "0.91",
+                "quality": "good",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Brilliant Red ",
+                "hexColor": "#e92028",
+                "delta": "2.00",
+                "quality": "good",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Magma Red",
+                "hexColor": "#db3a28",
+                "delta": "2.89",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Bright Red",
+                "hexColor": "#eb1c24",
+                "delta": "1.68",
+                "quality": "good",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Hot Orange",
+                "hexColor": "#e43027",
+                "delta": "1.34",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Scarlet",
+                "hexColor": "#da3630",
+                "delta": "3.41",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Jokaero Orange",
+        "hexColor": "#ee3823",
+        "comparisons": [
+            {
+                "name": "Angel Red ",
+                "hexColor": "#ca1905",
+                "delta": "5.43",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Khador Red Base ",
+                "hexColor": "#ec2822",
+                "delta": "0.91",
+                "quality": "good",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Brilliant Red ",
+                "hexColor": "#e92028",
+                "delta": "2.00",
+                "quality": "good",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Republique Red",
+                "hexColor": "#ef4023",
+                "delta": "1.56",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Firehawk Red",
+                "hexColor": "#ed3f23",
+                "delta": "1.20",
+                "quality": "good",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Hot Orange",
+                "hexColor": "#e43027",
+                "delta": "1.34",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Orange Red",
+                "hexColor": "#e34c26",
+                "delta": "3.55",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Squig Orange (Layer)",
+        "hexColor": "#a94f44",
+        "comparisons": [
+            {
+                "name": "Red Brown ",
+                "hexColor": "#b1645a",
+                "delta": "6.62",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Sanguine Highlight ",
+                "hexColor": "#c54757",
+                "delta": "8.89",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Rusty Red ",
+                "hexColor": "#b82f25",
+                "delta": "7.36",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Rust Brown",
+                "hexColor": "#b24a41",
+                "delta": "2.13",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Entrail Pink",
+                "hexColor": "#b55c5c",
+                "delta": "6.57",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Tan",
+                "hexColor": "#9f4746",
+                "delta": "4.51",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Dark Red",
+                "hexColor": "#a24a46",
+                "delta": "3.12",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Gorthor Brown (Layer)",
+        "hexColor": "#654641",
+        "comparisons": [
+            {
+                "name": "Rust ",
+                "hexColor": "#884439",
+                "delta": "10.13",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Sanguine Base ",
+                "hexColor": "#67120d",
+                "delta": "4.10",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Ruddy Brown ",
+                "hexColor": "#722314",
+                "delta": "16.87",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Ruddy Leather",
+                "hexColor": "#6a342a",
+                "delta": "8.12",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Volcano Brown",
+                "hexColor": "#604030",
+                "delta": "11.40",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Heavy Sienna",
+                "hexColor": "#744642",
+                "delta": "4.87",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Flat Brown",
+                "hexColor": "#764841",
+                "delta": "5.04",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Bugman's Glow",
+        "hexColor": "#845045",
+        "comparisons": [
+            {
+                "name": "Rust ",
+                "hexColor": "#884439",
+                "delta": "10.13",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Bloodstone ",
+                "hexColor": "#9c4621",
+                "delta": "6.75",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Ruddy Brown ",
+                "hexColor": "#722314",
+                "delta": "16.87",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Chestnut Brown",
+                "hexColor": "#7f433b",
+                "delta": "4.19",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Volcano Brown",
+                "hexColor": "#604030",
+                "delta": "11.40",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Heavy Sienna",
+                "hexColor": "#744642",
+                "delta": "4.87",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Saddle Brown",
+                "hexColor": "#89584f",
+                "delta": "2.87",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Deathclaw Brown (Layer)",
+        "hexColor": "#b36853",
+        "comparisons": [
+            {
+                "name": "Brick Red ",
+                "hexColor": "#ae6c5d",
+                "delta": "2.77",
+                "quality": "good",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Khardic Flesh ",
+                "hexColor": "#c97958",
+                "delta": "6.82",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Sunburn Flesh ",
+                "hexColor": "#bb6437",
+                "delta": "5.24",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Tanned Shadow",
+                "hexColor": "#a5755e",
+                "delta": "4.86",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Sunburn Flesh",
+                "hexColor": "#b86538",
+                "delta": "4.93",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Dwarf Skin",
+                "hexColor": "#cc7c67",
+                "delta": "7.61",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Orange Brown",
+                "hexColor": "#b86f44",
+                "delta": "4.52",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Lugganath Orange (Layer)",
+        "hexColor": "#f89e86",
+        "comparisons": [
+            {
+                "name": "Burnt Orange ",
+                "hexColor": "#f57d65",
+                "delta": "7.93",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Midlund Flesh ",
+                "hexColor": "#eda781",
+                "delta": "8.51",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Caucasian Flesh ",
+                "hexColor": "#e6b17b",
+                "delta": "3.29",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Rosy Skin",
+                "hexColor": "#ecae9f",
+                "delta": "5.92",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Blushing Flesh",
+                "hexColor": "#e86f54",
+                "delta": "7.48",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Rosy Flesh",
+                "hexColor": "#f89e84",
+                "delta": "0.68",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Salmon Rose",
+                "hexColor": "#f89d87",
+                "delta": "0.91",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Kindleflame (Dry)",
+        "hexColor": "#f69e86",
+        "comparisons": [
+            {
+                "name": "Burnt Orange ",
+                "hexColor": "#f57d65",
+                "delta": "7.93",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Midlund Flesh ",
+                "hexColor": "#eda781",
+                "delta": "8.51",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Caucasian Flesh ",
+                "hexColor": "#e6b17b",
+                "delta": "3.29",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Rosy Skin",
+                "hexColor": "#ecae9f",
+                "delta": "5.92",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Blushing Flesh",
+                "hexColor": "#e86f54",
+                "delta": "7.48",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Rosy Flesh",
+                "hexColor": "#f89e84",
+                "delta": "0.68",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Salmon Rose",
+                "hexColor": "#f89d87",
+                "delta": "0.91",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Cadian Fleshtone (Layer)",
+        "hexColor": "#c87958",
+        "comparisons": [
+            {
+                "name": "Flame Orange ",
+                "hexColor": "#e28048",
+                "delta": "7.10",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Khardic Flesh ",
+                "hexColor": "#c97958",
+                "delta": "6.82",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Sunburn Flesh ",
+                "hexColor": "#bb6437",
+                "delta": "5.24",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Bright Skin Shadow",
+                "hexColor": "#de8871",
+                "delta": "6.84",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Blushing Flesh",
+                "hexColor": "#e86f54",
+                "delta": "7.48",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Dwarf Skin",
+                "hexColor": "#cc7c67",
+                "delta": "7.61",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Light Brown",
+                "hexColor": "#bf764e",
+                "delta": "3.36",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Ratskin Flesh",
+        "hexColor": "#ae6b4e",
+        "comparisons": [
+            {
+                "name": "Beige Brown ",
+                "hexColor": "#a16e51",
+                "delta": "3.96",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Khardic Flesh ",
+                "hexColor": "#c97958",
+                "delta": "6.82",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Sunburn Flesh ",
+                "hexColor": "#bb6437",
+                "delta": "5.24",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Tanned Shadow",
+                "hexColor": "#a5755e",
+                "delta": "4.86",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Sunburn Flesh",
+                "hexColor": "#b86538",
+                "delta": "4.93",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Heavy Skintone",
+                "hexColor": "#aa7b62",
+                "delta": "6.14",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Orange Brown",
+                "hexColor": "#b86f44",
+                "delta": "4.52",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Troll Slayer Orange (Layer)",
+        "hexColor": "#f46c2e",
+        "comparisons": [
+            {
+                "name": "Flame Orange ",
+                "hexColor": "#e28048",
+                "delta": "7.10",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Khardic Flesh ",
+                "hexColor": "#c97958",
+                "delta": "6.82",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Fireball Orange ",
+                "hexColor": "#ef6f24",
+                "delta": "2.86",
+                "quality": "good",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Fire Orange",
+                "hexColor": "#ea712c",
+                "delta": "2.95",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Fireball Orange",
+                "hexColor": "#f06424",
+                "delta": "1.95",
+                "quality": "good",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Orange Fire",
+                "hexColor": "#f1652e",
+                "delta": "2.17",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Bright Orange",
+                "hexColor": "#f26833",
+                "delta": "2.03",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Fire Dragon Bright (Layer)",
+        "hexColor": "#f58651",
+        "comparisons": [
+            {
+                "name": "Flame Orange ",
+                "hexColor": "#e28048",
+                "delta": "7.10",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Khador Red Highlight ",
+                "hexColor": "#f08f41",
+                "delta": "6.60",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Fireball Orange ",
+                "hexColor": "#ef6f24",
+                "delta": "2.86",
+                "quality": "good",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Burnt Orange",
+                "hexColor": "#e18749",
+                "delta": "3.74",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Candleflame Orange",
+                "hexColor": "#f7811f",
+                "delta": "7.59",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Elf Skintone",
+                "hexColor": "#f8a070",
+                "delta": "6.48",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Bright Orange",
+                "hexColor": "#f26833",
+                "delta": "2.03",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Bestigor Flesh (Layer)",
+        "hexColor": "#d28b57",
+        "comparisons": [
+            {
+                "name": "Flame Orange ",
+                "hexColor": "#e28048",
+                "delta": "7.10",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Khador Red Highlight ",
+                "hexColor": "#f08f41",
+                "delta": "6.60",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Griffon Tan ",
+                "hexColor": "#c48639",
+                "delta": "7.35",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Burnt Orange",
+                "hexColor": "#e18749",
+                "delta": "3.74",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Dwarf Flesh",
+                "hexColor": "#b87d47",
+                "delta": "6.48",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Bronze Fleshtone",
+                "hexColor": "#db945c",
+                "delta": "2.85",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Beige Red",
+                "hexColor": "#c79166",
+                "delta": "3.94",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Skrag Brown (Layer)",
+        "hexColor": "#904a0f",
+        "comparisons": [
+            {
+                "name": "Barbarian Leather ",
+                "hexColor": "#a75e3d",
+                "delta": "10.09",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Bloodstone ",
+                "hexColor": "#9c4621",
+                "delta": "6.75",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Golden Brown ",
+                "hexColor": "#6c4a1d",
+                "delta": "8.41",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Harvest Brown",
+                "hexColor": "#8e3e00",
+                "delta": "3.63",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Oiled Leather",
+                "hexColor": "#a95f2f",
+                "delta": "8.39",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Parasite Brown",
+                "hexColor": "#b1481f",
+                "delta": "9.46",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Flat Earth",
+                "hexColor": "#87643c",
+                "delta": "7.38",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Skavenblight Dinge (Layer)",
+        "hexColor": "#48413b",
+        "comparisons": [
+            {
+                "name": "Negro ",
+                "hexColor": "#52463a",
+                "delta": "4.00",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Battlefield Brown ",
+                "hexColor": "#2f231a",
+                "delta": "7.02",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Ash Grey ",
+                "hexColor": "#3a4d54",
+                "delta": "2.41",
+                "quality": "good",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Stormy Grey",
+                "hexColor": "#464646",
+                "delta": "4.26",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Volcano Brown",
+                "hexColor": "#604030",
+                "delta": "11.40",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Beasty Brown",
+                "hexColor": "#55432d",
+                "delta": "8.16",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Leather Brown",
+                "hexColor": "#4a4639",
+                "delta": "7.89",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Baneblade Brown (Layer)",
+        "hexColor": "#927f6e",
+        "comparisons": [
+            {
+                "name": "Horse-tone Roan ",
+                "hexColor": "#83725e",
+                "delta": "5.68",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Cryx Bane Highlight ",
+                "hexColor": "#908e7a",
+                "delta": "10.35",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Dirty Grey ",
+                "hexColor": "#7f756b",
+                "delta": "12.17",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Alien Flesh",
+                "hexColor": "#a98972",
+                "delta": "6.56",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Soiled Grey",
+                "hexColor": "#81766a",
+                "delta": "5.14",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Khaki",
+                "hexColor": "#8c806d",
+                "delta": "9.90",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Tan Earth",
+                "hexColor": "#9c7962",
+                "delta": "6.04",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Stormvermin Fur (Layer)",
+        "hexColor": "#736c66",
+        "comparisons": [
+            {
+                "name": "Shadow Grey ",
+                "hexColor": "#666c6c",
+                "delta": "8.42",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Bastion Grey ",
+                "hexColor": "#747762",
+                "delta": "10.38",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Ashen Brown ",
+                "hexColor": "#74685a",
+                "delta": "4.27",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Stone Grey",
+                "hexColor": "#7c7771",
+                "delta": "4.34",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Soiled Grey",
+                "hexColor": "#81766a",
+                "delta": "5.14",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Khaki",
+                "hexColor": "#8c806d",
+                "delta": "9.90",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "German Cam. Pale Brown",
+                "hexColor": "#82685e",
+                "delta": "8.39",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "XV-88",
+        "hexColor": "#72481e",
+        "comparisons": [
+            {
+                "name": "Chestnut Brown ",
+                "hexColor": "#605234",
+                "delta": "0.48",
+                "quality": "good",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Idrian Flesh ",
+                "hexColor": "#995d35",
+                "delta": "10.53",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Golden Brown ",
+                "hexColor": "#6c4a1d",
+                "delta": "8.41",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Shield Brown",
+                "hexColor": "#7d5329",
+                "delta": "3.80",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Volcano Brown",
+                "hexColor": "#604030",
+                "delta": "11.40",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Earth",
+                "hexColor": "#6f563d",
+                "delta": "7.70",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "English Uniform",
+                "hexColor": "#715833",
+                "delta": "7.37",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Tau Light Ochre (Layer)",
+        "hexColor": "#bf6e1d",
+        "comparisons": [
+            {
+                "name": "Rat Brown ",
+                "hexColor": "#a97531",
+                "delta": "5.21",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Bloodtracker Brown ",
+                "hexColor": "#a36827",
+                "delta": "8.43",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Suntan Flesh ",
+                "hexColor": "#b26b29",
+                "delta": "3.31",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Explosion Orange",
+                "hexColor": "#de7c1b",
+                "delta": "7.11",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Autumn Orange",
+                "hexColor": "#d2721c",
+                "delta": "4.18",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Scrofulous Brown",
+                "hexColor": "#d68030",
+                "delta": "6.57",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Ochre Brown",
+                "hexColor": "#a77237",
+                "delta": "6.56",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Kislev Flesh (Layer)",
+        "hexColor": "#d6a876",
+        "comparisons": [
+            {
+                "name": "Horse-tone Bay ",
+                "hexColor": "#e3ab7a",
+                "delta": "3.26",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Midlund Flesh ",
+                "hexColor": "#eda781",
+                "delta": "8.51",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Caucasian Flesh ",
+                "hexColor": "#e6b17b",
+                "delta": "3.29",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Golden Skin",
+                "hexColor": "#d2ad83",
+                "delta": "2.88",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Elf Flesh",
+                "hexColor": "#eca05d",
+                "delta": "6.93",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Bone White",
+                "hexColor": "#e8be86",
+                "delta": "5.96",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Flat Flesh",
+                "hexColor": "#d8a977",
+                "delta": "0.44",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Ungor Flesh (Layer)",
+        "hexColor": "#d7a767",
+        "comparisons": [
+            {
+                "name": "Italian Red Earth ",
+                "hexColor": "#d99a4c",
+                "delta": "4.82",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Heartfire ",
+                "hexColor": "#e0ae43",
+                "delta": "7.39",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Caucasian Flesh ",
+                "hexColor": "#e6b17b",
+                "delta": "3.29",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Amber Gold",
+                "hexColor": "#cea35e",
+                "delta": "2.60",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Desert Tan",
+                "hexColor": "#ba925b",
+                "delta": "9.33",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Bone White",
+                "hexColor": "#e8be86",
+                "delta": "5.96",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Dark Flesh",
+                "hexColor": "#d9a262",
+                "delta": "2.22",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Karak Stone (Layer)",
+        "hexColor": "#bb9662",
+        "comparisons": [
+            {
+                "name": "Leather Brown ",
+                "hexColor": "#be9348",
+                "delta": "4.69",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Beast Hide ",
+                "hexColor": "#b09369",
+                "delta": "7.39",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Desert Tan ",
+                "hexColor": "#ba9159",
+                "delta": "9.52",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Golden Shadow",
+                "hexColor": "#bd9564",
+                "delta": "1.46",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Desert Tan",
+                "hexColor": "#ba925b",
+                "delta": "9.33",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Heavy Gold Brown",
+                "hexColor": "#ba8636",
+                "delta": "7.27",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Tan Yellow",
+                "hexColor": "#b5915d",
+                "delta": "1.68",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Eldar Flesh (Dry)",
+        "hexColor": "#edc184",
+        "comparisons": [
+            {
+                "name": "Elven Flesh ",
+                "hexColor": "#e2c385",
+                "delta": "4.02",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Heartfire ",
+                "hexColor": "#e0ae43",
+                "delta": "7.39",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Caucasian Flesh ",
+                "hexColor": "#e6b17b",
+                "delta": "3.29",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Bathalian Chitin",
+                "hexColor": "#e7bb70",
+                "delta": "3.41",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Tusk Ivory",
+                "hexColor": "#dcbe6f",
+                "delta": "9.75",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Bone White",
+                "hexColor": "#e8be86",
+                "delta": "5.96",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Dark Sand",
+                "hexColor": "#d1b47e",
+                "delta": "5.84",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Balor Brown (Layer)",
+        "hexColor": "#8b5910",
+        "comparisons": [
+            {
+                "name": "Wood Brown ",
+                "hexColor": "#a3723d",
+                "delta": "10.15",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Bootstrap Leather ",
+                "hexColor": "#926637",
+                "delta": "6.39",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Golden Brown ",
+                "hexColor": "#6c4a1d",
+                "delta": "8.41",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Cat's Eye Base",
+                "hexColor": "#9d580a",
+                "delta": "5.30",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Uniform Brown",
+                "hexColor": "#8e6924",
+                "delta": "6.43",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Leather Brown",
+                "hexColor": "#7b5d2a",
+                "delta": "6.40",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Flat Earth",
+                "hexColor": "#87643c",
+                "delta": "7.38",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Dryad Bark",
+        "hexColor": "#34312c",
+        "comparisons": [
+            {
+                "name": "Dark Earth ",
+                "hexColor": "#3b3c35",
+                "delta": "4.49",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Battlefield Brown ",
+                "hexColor": "#2f231a",
+                "delta": "7.02",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Armor Grey ",
+                "hexColor": "#0e181a",
+                "delta": "9.14",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Grey Liner",
+                "hexColor": "#363636",
+                "delta": "3.73",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Faded Black",
+                "hexColor": "#161417",
+                "delta": "3.90",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Charred Brown",
+                "hexColor": "#39343b",
+                "delta": "7.30",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Leather Brown",
+                "hexColor": "#4a4639",
+                "delta": "7.89",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Zamesi Desert (Layer)",
+        "hexColor": "#dca026",
+        "comparisons": [
+            {
+                "name": "Italian Red Earth ",
+                "hexColor": "#d99a4c",
+                "delta": "4.82",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Heartfire ",
+                "hexColor": "#e0ae43",
+                "delta": "7.39",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Mustard Yellow ",
+                "hexColor": "#e8b623",
+                "delta": "6.92",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Saffron Sunset",
+                "hexColor": "#eea500",
+                "delta": "3.80",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Goldenrod Yellow",
+                "hexColor": "#e7b517",
+                "delta": "7.01",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Plague Brown",
+                "hexColor": "#cc9b34",
+                "delta": "3.58",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Yellow Ochre",
+                "hexColor": "#c19448",
+                "delta": "7.39",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Steel Legion Drab",
+        "hexColor": "#5f5134",
+        "comparisons": [
+            {
+                "name": "Chestnut Brown ",
+                "hexColor": "#605234",
+                "delta": "0.48",
+                "quality": "good",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Thornwood Green ",
+                "hexColor": "#63634a",
+                "delta": "9.28",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Golden Brown ",
+                "hexColor": "#6c4a1d",
+                "delta": "8.41",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Basic Dirt",
+                "hexColor": "#57432b",
+                "delta": "6.11",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Faded Brown",
+                "hexColor": "#64552d",
+                "delta": "3.54",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Heavy Brown",
+                "hexColor": "#705d41",
+                "delta": "5.32",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "US Field Drab",
+                "hexColor": "#705d43",
+                "delta": "5.60",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Averland Sunset",
+        "hexColor": "#fcb825",
+        "comparisons": [
+            {
+                "name": "Dusky Yellow ",
+                "hexColor": "#ebb402",
+                "delta": "4.13",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Heartfire ",
+                "hexColor": "#e0ae43",
+                "delta": "7.39",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Golden Yellow ",
+                "hexColor": "#f7b719",
+                "delta": "1.42",
+                "quality": "good",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Hazard Yellow [HD]",
+                "hexColor": "#fdb016",
+                "delta": "2.71",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Deep Yellow",
+                "hexColor": "#f9b813",
+                "delta": "1.43",
+                "quality": "good",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Gold Yellow",
+                "hexColor": "#fdb318",
+                "delta": "1.70",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Golden Yellow",
+                "hexColor": "#f7c65e",
+                "delta": "5.87",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Tallarn Sand (Layer)",
+        "hexColor": "#a67610",
+        "comparisons": [
+            {
+                "name": "Rat Brown ",
+                "hexColor": "#a97531",
+                "delta": "5.21",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Bloodtracker Brown ",
+                "hexColor": "#a36827",
+                "delta": "8.43",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Woodland Brown ",
+                "hexColor": "#a17035",
+                "delta": "6.90",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Green Ochre",
+                "hexColor": "#9f7319",
+                "delta": "2.01",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Olive Flesh",
+                "hexColor": "#a07a3e",
+                "delta": "5.88",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Heavy Ochre",
+                "hexColor": "#a87536",
+                "delta": "6.03",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Gold Brown",
+                "hexColor": "#ba8636",
+                "delta": "6.71",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Rakarth Flesh",
+        "hexColor": "#a29e92",
+        "comparisons": [
+            {
+                "name": "Lupin Grey ",
+                "hexColor": "#b3b0ab",
+                "delta": "6.34",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Trollblood Highlight ",
+                "hexColor": "#bab2a1",
+                "delta": "6.44",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Field Grey ",
+                "hexColor": "#97a08f",
+                "delta": "15.57",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Vampiric Shadow",
+                "hexColor": "#a9998a",
+                "delta": "5.89",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Field Grey",
+                "hexColor": "#97a18f",
+                "delta": "15.06",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Heavy Blue Grey",
+                "hexColor": "#9ca7a7",
+                "delta": "4.79",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Light Grey",
+                "hexColor": "#949c9a",
+                "delta": "10.44",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Zandri Dust",
+        "hexColor": "#9e915c",
+        "comparisons": [
+            {
+                "name": "British Khaki ",
+                "hexColor": "#af9f6c",
+                "delta": "4.86",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Beast Hide ",
+                "hexColor": "#b09369",
+                "delta": "7.39",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Desert Tan ",
+                "hexColor": "#ba9159",
+                "delta": "9.52",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Dirty Bone",
+                "hexColor": "#a89867",
+                "delta": "2.99",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Desert Tan",
+                "hexColor": "#ba925b",
+                "delta": "9.33",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Heavy Khaki",
+                "hexColor": "#9d965d",
+                "delta": "2.60",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Dark Yellow",
+                "hexColor": "#9d9059",
+                "delta": "0.59",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Yriel Yellow (Layer)",
+        "hexColor": "#ffdb01",
+        "comparisons": [
+            {
+                "name": "Sun Yellow ",
+                "hexColor": "#faeb50",
+                "delta": "4.13",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Sulfuric Yellow ",
+                "hexColor": "#edd031",
+                "delta": "3.96",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Pale Saffron ",
+                "hexColor": "#ffde2f",
+                "delta": "6.43",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Beacon Yellow",
+                "hexColor": "#ffe401",
+                "delta": "2.78",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Sunlight Yellow",
+                "hexColor": "#f7e608",
+                "delta": "2.68",
+                "quality": "good",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Sun Yellow",
+                "hexColor": "#ffcf07",
+                "delta": "3.94",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Deep Yellow",
+                "hexColor": "#ffe30c",
+                "delta": "2.45",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Tyrant Skull (Dry)",
+        "hexColor": "#cec687",
+        "comparisons": [
+            {
+                "name": "Desert Yellow ",
+                "hexColor": "#d3c78e",
+                "delta": "2.01",
+                "quality": "good",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Hammerfall Khaki ",
+                "hexColor": "#c6bd95",
+                "delta": "5.85",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Tusk Ivory ",
+                "hexColor": "#dfbe6f",
+                "delta": "10.56",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Bloodless Skin",
+                "hexColor": "#d2cf9a",
+                "delta": "3.63",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Tusk Ivory",
+                "hexColor": "#dcbe6f",
+                "delta": "9.75",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Pale Yellow",
+                "hexColor": "#d5c179",
+                "delta": "4.02",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Buff",
+                "hexColor": "#d2ca9f",
+                "delta": "6.49",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Flayed One Flesh (Layer)",
+        "hexColor": "#cdc586",
+        "comparisons": [
+            {
+                "name": "Desert Yellow ",
+                "hexColor": "#d3c78e",
+                "delta": "2.01",
+                "quality": "good",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Hammerfall Khaki ",
+                "hexColor": "#c6bd95",
+                "delta": "5.85",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Tusk Ivory ",
+                "hexColor": "#dfbe6f",
+                "delta": "10.56",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Bloodless Skin",
+                "hexColor": "#d2cf9a",
+                "delta": "3.63",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Tusk Ivory",
+                "hexColor": "#dcbe6f",
+                "delta": "9.75",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Pale Yellow",
+                "hexColor": "#d5c179",
+                "delta": "4.02",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Buff",
+                "hexColor": "#d2ca9f",
+                "delta": "6.49",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Dorn Yellow (Layer)",
+        "hexColor": "#fff683",
+        "comparisons": [
+            {
+                "name": "Sun Yellow ",
+                "hexColor": "#faeb50",
+                "delta": "4.13",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Cygnus Yellow ",
+                "hexColor": "#f2e429",
+                "delta": "3.42",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Pale Saffron ",
+                "hexColor": "#ffde2f",
+                "delta": "6.43",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Golden Blonde",
+                "hexColor": "#f2e295",
+                "delta": "6.94",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Pale Yellow",
+                "hexColor": "#fcf15f",
+                "delta": "3.76",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Fluo Yellow",
+                "hexColor": "#eeea50",
+                "delta": "5.18",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Ice Yellow",
+                "hexColor": "#feef87",
+                "delta": "2.37",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Flash Gitz Yellow (Layer)",
+        "hexColor": "#fef200",
+        "comparisons": [
+            {
+                "name": "Sun Yellow ",
+                "hexColor": "#faeb50",
+                "delta": "4.13",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Cygnus Yellow ",
+                "hexColor": "#f2e429",
+                "delta": "3.42",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Pale Saffron ",
+                "hexColor": "#ffde2f",
+                "delta": "6.43",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Lemon Yellow",
+                "hexColor": "#f8ec1c",
+                "delta": "1.52",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Sunlight Yellow",
+                "hexColor": "#f7e608",
+                "delta": "2.68",
+                "quality": "good",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Moon Yellow",
+                "hexColor": "#fff103",
+                "delta": "0.45",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Lemon Yellow",
+                "hexColor": "#fef10e",
+                "delta": "0.35",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Longbeard Grey (Dry)",
+        "hexColor": "#dfdec9",
+        "comparisons": [
+            {
+                "name": "Tank Light Grey ",
+                "hexColor": "#e7e9dd",
+                "delta": "4.31",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Menoth White Highlight ",
+                "hexColor": "#f2f2dc",
+                "delta": "4.32",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Maiden Flesh ",
+                "hexColor": "#f2e0c8",
+                "delta": "7.76",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Khaki Highlight",
+                "hexColor": "#dbd5bd",
+                "delta": "4.32",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Linen White",
+                "hexColor": "#fcfcf2",
+                "delta": "7.85",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Offwhite",
+                "hexColor": "#f5f4da",
+                "delta": "4.95",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Ivory",
+                "hexColor": "#eff1d9",
+                "delta": "4.31",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Hexos Palesun (Dry)",
+        "hexColor": "#fef200",
+        "comparisons": [
+            {
+                "name": "Sun Yellow ",
+                "hexColor": "#faeb50",
+                "delta": "4.13",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Cygnus Yellow ",
+                "hexColor": "#f2e429",
+                "delta": "3.42",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Pale Saffron ",
+                "hexColor": "#ffde2f",
+                "delta": "6.43",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Lemon Yellow",
+                "hexColor": "#f8ec1c",
+                "delta": "1.52",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Sunlight Yellow",
+                "hexColor": "#f7e608",
+                "delta": "2.68",
+                "quality": "good",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Moon Yellow",
+                "hexColor": "#fff103",
+                "delta": "0.45",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Lemon Yellow",
+                "hexColor": "#fef10e",
+                "delta": "0.35",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Krieg Khaki (Layer)",
+        "hexColor": "#bfbd82",
+        "comparisons": [
+            {
+                "name": "Festering Brown ",
+                "hexColor": "#cccc87",
+                "delta": "3.95",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Hammerfall Khaki ",
+                "hexColor": "#c6bd95",
+                "delta": "5.85",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Tusk Ivory ",
+                "hexColor": "#dfbe6f",
+                "delta": "10.56",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Moldy Skin",
+                "hexColor": "#b2b580",
+                "delta": "2.68",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Tusk Ivory",
+                "hexColor": "#dcbe6f",
+                "delta": "9.75",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Dead Flesh",
+                "hexColor": "#bcb686",
+                "delta": "3.47",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Buff",
+                "hexColor": "#d2ca9f",
+                "delta": "6.49",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Underhive Ash (Dry)",
+        "hexColor": "#bfbd80",
+        "comparisons": [
+            {
+                "name": "Festering Brown ",
+                "hexColor": "#cccc87",
+                "delta": "3.95",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Hammerfall Khaki ",
+                "hexColor": "#c6bd95",
+                "delta": "5.85",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Tusk Ivory ",
+                "hexColor": "#dfbe6f",
+                "delta": "10.56",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Moldy Skin",
+                "hexColor": "#b2b580",
+                "delta": "2.68",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Tusk Ivory",
+                "hexColor": "#dcbe6f",
+                "delta": "9.75",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Dead Flesh",
+                "hexColor": "#bcb686",
+                "delta": "3.47",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Buff",
+                "hexColor": "#d2ca9f",
+                "delta": "6.49",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Screaming Skull (Layer)",
+        "hexColor": "#d4d3a3",
+        "comparisons": [
+            {
+                "name": "Buff ",
+                "hexColor": "#dcdaa3",
+                "delta": "2.27",
+                "quality": "good",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "'Jack Bone ",
+                "hexColor": "#d5d2a9",
+                "delta": "7.99",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Tusk Ivory ",
+                "hexColor": "#dfbe6f",
+                "delta": "10.56",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Bloodless Skin",
+                "hexColor": "#d2cf9a",
+                "delta": "3.63",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Tusk Ivory",
+                "hexColor": "#dcbe6f",
+                "delta": "9.75",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Elfic Flesh",
+                "hexColor": "#cdc29c",
+                "delta": "8.62",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Buff",
+                "hexColor": "#d2ca9f",
+                "delta": "6.49",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Ushabti Bone (Layer)",
+        "hexColor": "#bcbc80",
+        "comparisons": [
+            {
+                "name": "Khaki ",
+                "hexColor": "#adb67f",
+                "delta": "8.49",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Hammerfall Khaki ",
+                "hexColor": "#c6bd95",
+                "delta": "5.85",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Tusk Ivory ",
+                "hexColor": "#dfbe6f",
+                "delta": "10.56",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Moldy Skin",
+                "hexColor": "#b2b580",
+                "delta": "2.68",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Tusk Ivory",
+                "hexColor": "#dcbe6f",
+                "delta": "9.75",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Dead Flesh",
+                "hexColor": "#bcb686",
+                "delta": "3.47",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Buff",
+                "hexColor": "#d2ca9f",
+                "delta": "6.49",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Pallid Wych Flesh (Layer)",
+        "hexColor": "#cdcebe",
+        "comparisons": [
+            {
+                "name": "Horse-tone Grey ",
+                "hexColor": "#c4d2bd",
+                "delta": "5.72",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "'Jack Bone ",
+                "hexColor": "#d5d2a9",
+                "delta": "7.99",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Concrete Grey ",
+                "hexColor": "#bcc1c4",
+                "delta": "9.63",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Khaki Highlight",
+                "hexColor": "#dbd5bd",
+                "delta": "4.32",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Granite Grey",
+                "hexColor": "#bac2c5",
+                "delta": "18.56",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Elfic Flesh",
+                "hexColor": "#cdc29c",
+                "delta": "8.62",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Deck Tan",
+                "hexColor": "#bec5b3",
+                "delta": "3.85",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Ogryn Camo (Layer)",
+        "hexColor": "#9ea94b",
+        "comparisons": [
+            {
+                "name": "Khaki ",
+                "hexColor": "#adb67f",
+                "delta": "8.49",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Wurm Green ",
+                "hexColor": "#8bbc3e",
+                "delta": "8.35",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Meadow Green ",
+                "hexColor": "#6c923b",
+                "delta": "11.21",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Mekong Moss [HD]",
+                "hexColor": "#a0a00c",
+                "delta": "6.88",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Bleached Olive",
+                "hexColor": "#829836",
+                "delta": "6.60",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Heavy Khaki",
+                "hexColor": "#9d965d",
+                "delta": "2.60",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Middlestone",
+                "hexColor": "#9c9660",
+                "delta": "9.21",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Elysian Green (Layer)",
+        "hexColor": "#758e3a",
+        "comparisons": [
+            {
+                "name": "Scorpion Green ",
+                "hexColor": "#61832c",
+                "delta": "5.13",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Ordic Olive ",
+                "hexColor": "#6c7c34",
+                "delta": "6.60",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Meadow Green ",
+                "hexColor": "#6c923b",
+                "delta": "11.21",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Olive Green",
+                "hexColor": "#729656",
+                "delta": "8.63",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Greyed Olive",
+                "hexColor": "#718c39",
+                "delta": "1.01",
+                "quality": "good",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Camoflage Green",
+                "hexColor": "#71753a",
+                "delta": "10.06",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Golden Olive",
+                "hexColor": "#78923b",
+                "delta": "1.40",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Straken Green (Layer)",
+        "hexColor": "#628026",
+        "comparisons": [
+            {
+                "name": "Scorpion Green ",
+                "hexColor": "#61832c",
+                "delta": "5.13",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Ordic Olive ",
+                "hexColor": "#6c7c34",
+                "delta": "6.60",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Meadow Green ",
+                "hexColor": "#6c923b",
+                "delta": "11.21",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Olive Green",
+                "hexColor": "#729656",
+                "delta": "8.63",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Olive Green",
+                "hexColor": "#5b7a27",
+                "delta": "4.58",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Camoflage Green",
+                "hexColor": "#71753a",
+                "delta": "10.06",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Olive Green",
+                "hexColor": "#6a8b3a",
+                "delta": "4.51",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Nurgling Green (Layer)",
+        "hexColor": "#849b63",
+        "comparisons": [
+            {
+                "name": "Russian Brown ",
+                "hexColor": "#899571",
+                "delta": "5.56",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Traitor Green ",
+                "hexColor": "#7e8d63",
+                "delta": "9.28",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Meadow Green ",
+                "hexColor": "#6c923b",
+                "delta": "11.21",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Olive Green",
+                "hexColor": "#729656",
+                "delta": "8.63",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Greyed Olive",
+                "hexColor": "#718c39",
+                "delta": "1.01",
+                "quality": "good",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Heavy Warm Grey",
+                "hexColor": "#939066",
+                "delta": "8.43",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Golden Olive",
+                "hexColor": "#78923b",
+                "delta": "1.40",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Loren Forest (Layer)",
+        "hexColor": "#51702d",
+        "comparisons": [
+            {
+                "name": "Russian Green ",
+                "hexColor": "#4d7848",
+                "delta": "6.40",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Ordic Olive ",
+                "hexColor": "#6c7c34",
+                "delta": "6.60",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Turf Green ",
+                "hexColor": "#28813f",
+                "delta": "9.07",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Muddy Olive",
+                "hexColor": "#407036",
+                "delta": "4.44",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Olive Green",
+                "hexColor": "#5b7a27",
+                "delta": "4.58",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Heavy Green",
+                "hexColor": "#566840",
+                "delta": "6.52",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Uniform Green",
+                "hexColor": "#577a38",
+                "delta": "3.71",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Death World Forest",
+        "hexColor": "#496732",
+        "comparisons": [
+            {
+                "name": "Goblin Green ",
+                "hexColor": "#366e43",
+                "delta": "6.55",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Gnarls Green ",
+                "hexColor": "#0f5f31",
+                "delta": "9.77",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Mossy Green ",
+                "hexColor": "#21502c",
+                "delta": "5.54",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Muddy Olive",
+                "hexColor": "#407036",
+                "delta": "4.44",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Olive Green",
+                "hexColor": "#5b7a27",
+                "delta": "4.58",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Heavy Green",
+                "hexColor": "#566840",
+                "delta": "6.52",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Luftwaffe Cam. Green",
+                "hexColor": "#596b3f",
+                "delta": "4.18",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Castellan Green",
+        "hexColor": "#304921",
+        "comparisons": [
+            {
+                "name": "Emerald Green ",
+                "hexColor": "#193922",
+                "delta": "5.39",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Cryx Bane Base ",
+                "hexColor": "#2d3723",
+                "delta": "8.89",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Mossy Green ",
+                "hexColor": "#21502c",
+                "delta": "5.54",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Military Green",
+                "hexColor": "#445020",
+                "delta": "5.76",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Ivy Green",
+                "hexColor": "#023f11",
+                "delta": "7.02",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Dark Green",
+                "hexColor": "#083c2a",
+                "delta": "5.71",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Reflective Green",
+                "hexColor": "#496244",
+                "delta": "9.37",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Dawnstone (Layer)",
+        "hexColor": "#70756e",
+        "comparisons": [
+            {
+                "name": "Shadow Grey ",
+                "hexColor": "#666c6c",
+                "delta": "8.42",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Bastion Grey ",
+                "hexColor": "#747762",
+                "delta": "10.38",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Dirty Grey ",
+                "hexColor": "#7f756b",
+                "delta": "12.17",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Cloudy Grey",
+                "hexColor": "#707070",
+                "delta": "6.65",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Soiled Grey",
+                "hexColor": "#81766a",
+                "delta": "5.14",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Heavy Grey",
+                "hexColor": "#626d54",
+                "delta": "9.21",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Dark Sea Grey",
+                "hexColor": "#787d7a",
+                "delta": "3.94",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Moot Green (Layer)",
+        "hexColor": "#52b246",
+        "comparisons": [
+            {
+                "name": "Grass Green ",
+                "hexColor": "#16a553",
+                "delta": "7.30",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Necrotite Green ",
+                "hexColor": "#7cc046",
+                "delta": "6.61",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Meadow Green ",
+                "hexColor": "#6c923b",
+                "delta": "11.21",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Pale Green",
+                "hexColor": "#33b54b",
+                "delta": "2.87",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Emerald Green",
+                "hexColor": "#4fb649",
+                "delta": "1.18",
+                "quality": "good",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Scorpion Green",
+                "hexColor": "#48b851",
+                "delta": "9.51",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Lime Green",
+                "hexColor": "#6fae4e",
+                "delta": "3.83",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Administratum Grey (Layer)",
+        "hexColor": "#949b94",
+        "comparisons": [
+            {
+                "name": "Mid Grey ",
+                "hexColor": "#99adac",
+                "delta": "2.14",
+                "quality": "good",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Ironhull Grey ",
+                "hexColor": "#8c949a",
+                "delta": "6.80",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Field Grey ",
+                "hexColor": "#97a08f",
+                "delta": "15.57",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Weathered Stone",
+                "hexColor": "#948f8c",
+                "delta": "7.78",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Field Grey",
+                "hexColor": "#97a18f",
+                "delta": "15.06",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Heavy Blue Grey",
+                "hexColor": "#9ca7a7",
+                "delta": "4.79",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Light Grey",
+                "hexColor": "#949c9a",
+                "delta": "10.44",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Waaagh! Flesh",
+        "hexColor": "#20552b",
+        "comparisons": [
+            {
+                "name": "Dark Elf Green ",
+                "hexColor": "#2a5f44",
+                "delta": "6.12",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Gnarls Green ",
+                "hexColor": "#0f5f31",
+                "delta": "9.77",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Mossy Green ",
+                "hexColor": "#21502c",
+                "delta": "5.54",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Pine Green",
+                "hexColor": "#015929",
+                "delta": "3.09",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Elf Green",
+                "hexColor": "#03462b",
+                "delta": "3.25",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Sick Green",
+                "hexColor": "#096638",
+                "delta": "6.07",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Flat Green",
+                "hexColor": "#2a6531",
+                "delta": "5.48",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Warpstone Glow (Layer)",
+        "hexColor": "#1e7332",
+        "comparisons": [
+            {
+                "name": "Forest Green ",
+                "hexColor": "#2a7436",
+                "delta": "1.20",
+                "quality": "good",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Gnarls Green ",
+                "hexColor": "#0f5f31",
+                "delta": "9.77",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Turf Green ",
+                "hexColor": "#28813f",
+                "delta": "9.07",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Muddy Olive",
+                "hexColor": "#407036",
+                "delta": "4.44",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Kilt Green",
+                "hexColor": "#066d39",
+                "delta": "3.77",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Goblin Green",
+                "hexColor": "#23743c",
+                "delta": "2.02",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Medium Olive",
+                "hexColor": "#226b2e",
+                "delta": "2.73",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Skarsnik Green (Layer)",
+        "hexColor": "#5f936f",
+        "comparisons": [
+            {
+                "name": "Pale Green ",
+                "hexColor": "#70a78d",
+                "delta": "7.56",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Traitor Green ",
+                "hexColor": "#7e8d63",
+                "delta": "9.28",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Turf Green ",
+                "hexColor": "#28813f",
+                "delta": "9.07",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Olive Green",
+                "hexColor": "#729656",
+                "delta": "8.63",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Poison Green",
+                "hexColor": "#28a44b",
+                "delta": "11.93",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Foul Green",
+                "hexColor": "#239378",
+                "delta": "4.59",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Intermediate Green",
+                "hexColor": "#49944f",
+                "delta": "7.95",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Caliban Green",
+        "hexColor": "#00401e",
+        "comparisons": [
+            {
+                "name": "Emerald Green ",
+                "hexColor": "#193922",
+                "delta": "5.39",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Gnarls Green ",
+                "hexColor": "#0f5f31",
+                "delta": "9.77",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Mossy Green ",
+                "hexColor": "#21502c",
+                "delta": "5.54",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Forest Green",
+                "hexColor": "#024428",
+                "delta": "2.53",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Elf Green",
+                "hexColor": "#03462b",
+                "delta": "3.25",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Dark Green",
+                "hexColor": "#083c2a",
+                "delta": "5.71",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Yellow Olive",
+                "hexColor": "#26392e",
+                "delta": "11.31",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Warboss Green (Layer)",
+        "hexColor": "#3e7f5d",
+        "comparisons": [
+            {
+                "name": "Jade Green ",
+                "hexColor": "#2a785e",
+                "delta": "4.28",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Gnarls Green ",
+                "hexColor": "#0f5f31",
+                "delta": "9.77",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Turf Green ",
+                "hexColor": "#28813f",
+                "delta": "9.07",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Grass Green",
+                "hexColor": "#047b55",
+                "delta": "6.55",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Turf Green",
+                "hexColor": "#28803b",
+                "delta": "9.84",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Goblin Green",
+                "hexColor": "#23743c",
+                "delta": "2.02",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Park Green Flat",
+                "hexColor": "#008c5d",
+                "delta": "6.35",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Sybarite Green (Layer)",
+        "hexColor": "#30a66c",
+        "comparisons": [
+            {
+                "name": "Bogey Green ",
+                "hexColor": "#379d5a",
+                "delta": "3.93",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Iosan Green ",
+                "hexColor": "#23a551",
+                "delta": "11.92",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Turf Green ",
+                "hexColor": "#28813f",
+                "delta": "9.07",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Jade Green",
+                "hexColor": "#01ad63",
+                "delta": "3.53",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Poison Green",
+                "hexColor": "#28a44b",
+                "delta": "11.93",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Scorpion Green",
+                "hexColor": "#48b851",
+                "delta": "9.51",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Light Green",
+                "hexColor": "#00a850",
+                "delta": "5.58",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Hellion Green (Dry)",
+        "hexColor": "#83c3a9",
+        "comparisons": [
+            {
+                "name": "Pale Green ",
+                "hexColor": "#70a78d",
+                "delta": "7.56",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Arcane Blue ",
+                "hexColor": "#78cdd8",
+                "delta": "4.02",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Field Grey ",
+                "hexColor": "#97a08f",
+                "delta": "15.57",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "LED Blue",
+                "hexColor": "#9ac3bd",
+                "delta": "8.53",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Field Grey",
+                "hexColor": "#97a18f",
+                "delta": "15.06",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Verdigris",
+                "hexColor": "#b3ceca",
+                "delta": "14.06",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Green Sky",
+                "hexColor": "#59ad84",
+                "delta": "8.79",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Gauss Blaster Green (Layer)",
+        "hexColor": "#84c2a9",
+        "comparisons": [
+            {
+                "name": "Pale Green ",
+                "hexColor": "#70a78d",
+                "delta": "7.56",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Arcane Blue ",
+                "hexColor": "#78cdd8",
+                "delta": "4.02",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Field Grey ",
+                "hexColor": "#97a08f",
+                "delta": "15.57",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "LED Blue",
+                "hexColor": "#9ac3bd",
+                "delta": "8.53",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Field Grey",
+                "hexColor": "#97a18f",
+                "delta": "15.06",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Verdigris",
+                "hexColor": "#b3ceca",
+                "delta": "14.06",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Grey Grey",
+                "hexColor": "#aecbbb",
+                "delta": "8.60",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Kabalite Green (Layer)",
+        "hexColor": "#028d66",
+        "comparisons": [
+            {
+                "name": "Faded Olive ",
+                "hexColor": "#149672",
+                "delta": "3.46",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Iosan Green ",
+                "hexColor": "#23a551",
+                "delta": "11.92",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Turf Green ",
+                "hexColor": "#28813f",
+                "delta": "9.07",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Grass Green",
+                "hexColor": "#047b55",
+                "delta": "6.55",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Turf Green",
+                "hexColor": "#28803b",
+                "delta": "9.84",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Foul Green",
+                "hexColor": "#239378",
+                "delta": "4.59",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Emerald",
+                "hexColor": "#00906a",
+                "delta": "1.16",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Ulthuan Grey (Layer)",
+        "hexColor": "#c7e0da",
+        "comparisons": [
+            {
+                "name": "Bavarian Blue ",
+                "hexColor": "#d7e8e5",
+                "delta": "3.88",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Underbelly Blue ",
+                "hexColor": "#bed2d8",
+                "delta": "9.72",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Concrete Grey ",
+                "hexColor": "#bcc1c4",
+                "delta": "9.63",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Maggot White",
+                "hexColor": "#ddefe1",
+                "delta": "5.23",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Ghost White",
+                "hexColor": "#e2f4fc",
+                "delta": "9.08",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Verdigris",
+                "hexColor": "#b3ceca",
+                "delta": "14.06",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Pale Grey Blue",
+                "hexColor": "#bacdd0",
+                "delta": "10.14",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Temple Guard Blue (Layer)",
+        "hexColor": "#329b8d",
+        "comparisons": [
+            {
+                "name": "Enchanted Green ",
+                "hexColor": "#349c86",
+                "delta": "2.89",
+                "quality": "good",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Meridius Blue ",
+                "hexColor": "#01afb7",
+                "delta": "10.49",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Field Grey ",
+                "hexColor": "#97a08f",
+                "delta": "15.57",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Surf Aqua",
+                "hexColor": "#66b3b9",
+                "delta": "4.60",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Field Grey",
+                "hexColor": "#97a18f",
+                "delta": "15.06",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Foul Green",
+                "hexColor": "#239378",
+                "delta": "4.59",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Blue Green",
+                "hexColor": "#1a9496",
+                "delta": "6.62",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Celestra Grey",
+        "hexColor": "#90a8a8",
+        "comparisons": [
+            {
+                "name": "Mid Grey ",
+                "hexColor": "#99adac",
+                "delta": "2.14",
+                "quality": "good",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Ironhull Grey ",
+                "hexColor": "#8c949a",
+                "delta": "6.80",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Field Grey ",
+                "hexColor": "#97a08f",
+                "delta": "15.57",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Pale Lichen",
+                "hexColor": "#7d978c",
+                "delta": "7.87",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Field Grey",
+                "hexColor": "#97a18f",
+                "delta": "15.06",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Heavy Blue Grey",
+                "hexColor": "#9ca7a7",
+                "delta": "4.79",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Light Sea Grey",
+                "hexColor": "#97b4b5",
+                "delta": "3.54",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Incubi Darkness",
+        "hexColor": "#0b4849",
+        "comparisons": [
+            {
+                "name": "Hawk Turquoise ",
+                "hexColor": "#15524d",
+                "delta": "4.33",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Coal Black ",
+                "hexColor": "#015960",
+                "delta": "6.10",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Solid Blue ",
+                "hexColor": "#015861",
+                "delta": "6.27",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Military Blue",
+                "hexColor": "#14514c",
+                "delta": "4.11",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Sombre Blue",
+                "hexColor": "#033c3a",
+                "delta": "4.07",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Scurvy Green",
+                "hexColor": "#09474e",
+                "delta": "3.25",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Black Green",
+                "hexColor": "#19423e",
+                "delta": "3.57",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Thunderhawk Blue (Layer)",
+        "hexColor": "#417175",
+        "comparisons": [
+            {
+                "name": "Dark Grey ",
+                "hexColor": "#536962",
+                "delta": "7.80",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Coal Black ",
+                "hexColor": "#015960",
+                "delta": "6.10",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Winter Blue ",
+                "hexColor": "#1d6d74",
+                "delta": "1.70",
+                "quality": "good",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Coated Armor",
+                "hexColor": "#4c7183",
+                "delta": "8.28",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Winter Blue",
+                "hexColor": "#1c6c72",
+                "delta": "1.84",
+                "quality": "good",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Turquoise",
+                "hexColor": "#03676f",
+                "delta": "1.47",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Field Blue",
+                "hexColor": "#436872",
+                "delta": "7.32",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Sotek Green (Layer)",
+        "hexColor": "#0c6a74",
+        "comparisons": [
+            {
+                "name": "Military Green ",
+                "hexColor": "#1d5261",
+                "delta": "9.46",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Coal Black ",
+                "hexColor": "#015960",
+                "delta": "6.10",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Winter Blue ",
+                "hexColor": "#1d6d74",
+                "delta": "1.70",
+                "quality": "good",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Marine Teal",
+                "hexColor": "#005f6d",
+                "delta": "4.24",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Winter Blue",
+                "hexColor": "#1c6c72",
+                "delta": "1.84",
+                "quality": "good",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Turquoise",
+                "hexColor": "#03676f",
+                "delta": "1.47",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Field Blue",
+                "hexColor": "#436872",
+                "delta": "7.32",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Baharroth Blue (Layer)",
+        "hexColor": "#59c1ce",
+        "comparisons": [
+            {
+                "name": "Uniform Grey ",
+                "hexColor": "#8eadaf",
+                "delta": "11.43",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Arcane Blue ",
+                "hexColor": "#78cdd8",
+                "delta": "4.02",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Ice Blue ",
+                "hexColor": "#4197d2",
+                "delta": "6.19",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Surf Aqua",
+                "hexColor": "#66b3b9",
+                "delta": "4.60",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Granite Grey",
+                "hexColor": "#bac2c5",
+                "delta": "18.56",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Verdigris",
+                "hexColor": "#b3ceca",
+                "delta": "14.06",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Pale Blue",
+                "hexColor": "#83b5b2",
+                "delta": "8.45",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Skink Blue (Dry)",
+        "hexColor": "#59c1ce",
+        "comparisons": [
+            {
+                "name": "Uniform Grey ",
+                "hexColor": "#8eadaf",
+                "delta": "11.43",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Arcane Blue ",
+                "hexColor": "#78cdd8",
+                "delta": "4.02",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Ice Blue ",
+                "hexColor": "#4197d2",
+                "delta": "6.19",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Surf Aqua",
+                "hexColor": "#66b3b9",
+                "delta": "4.60",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Granite Grey",
+                "hexColor": "#bac2c5",
+                "delta": "18.56",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Verdigris",
+                "hexColor": "#b3ceca",
+                "delta": "14.06",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Pale Blue",
+                "hexColor": "#83b5b2",
+                "delta": "8.45",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Mechanicus Standard Grey",
+        "hexColor": "#3d4b4e",
+        "comparisons": [
+            {
+                "name": "Iron Grey ",
+                "hexColor": "#395153",
+                "delta": "4.17",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Greatcoat Grey ",
+                "hexColor": "#4a565f",
+                "delta": "5.68",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Ash Grey ",
+                "hexColor": "#3a4d54",
+                "delta": "2.41",
+                "quality": "good",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Highland Moss",
+                "hexColor": "#3d504a",
+                "delta": "6.16",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Ash Grey",
+                "hexColor": "#3a4d54",
+                "delta": "2.41",
+                "quality": "good",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Cold Grey",
+                "hexColor": "#54646d",
+                "delta": "9.35",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "USA Olive Drab",
+                "hexColor": "#3b4947",
+                "delta": "3.19",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Lothern Blue (Layer)",
+        "hexColor": "#33a2cf",
+        "comparisons": [
+            {
+                "name": "Elven Grey ",
+                "hexColor": "#7a9ab1",
+                "delta": "13.50",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Trollblood Base ",
+                "hexColor": "#1a8799",
+                "delta": "12.98",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Ice Blue ",
+                "hexColor": "#4197d2",
+                "delta": "6.19",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Sky Blue",
+                "hexColor": "#4ca2d3",
+                "delta": "3.09",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Icy Blue",
+                "hexColor": "#4195d0",
+                "delta": "6.68",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Electric Blue",
+                "hexColor": "#008cbf",
+                "delta": "7.50",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Deep Sky Blue",
+                "hexColor": "#00a6da",
+                "delta": "1.92",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Stegadon Scale Green",
+        "hexColor": "#074864",
+        "comparisons": [
+            {
+                "name": "Military Green ",
+                "hexColor": "#1d5261",
+                "delta": "9.46",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Cygnar Blue Base ",
+                "hexColor": "#124999",
+                "delta": "4.14",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Nightsky Blue ",
+                "hexColor": "#053c5b",
+                "delta": "6.51",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Soft Blue",
+                "hexColor": "#13475f",
+                "delta": "1.37",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Nightsky Blue",
+                "hexColor": "#033a59",
+                "delta": "5.36",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Heavy Blue",
+                "hexColor": "#29556d",
+                "delta": "4.81",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Prussian Blue",
+                "hexColor": "#2a546e",
+                "delta": "4.65",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Fenrisian Grey (Layer)",
+        "hexColor": "#709cb7",
+        "comparisons": [
+            {
+                "name": "Elven Grey ",
+                "hexColor": "#7a9ab1",
+                "delta": "13.50",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Ironhull Grey ",
+                "hexColor": "#8c949a",
+                "delta": "6.80",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Ice Blue ",
+                "hexColor": "#4197d2",
+                "delta": "6.19",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Sky Blue",
+                "hexColor": "#4ca2d3",
+                "delta": "3.09",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Icy Blue",
+                "hexColor": "#4195d0",
+                "delta": "6.68",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Steel Grey",
+                "hexColor": "#64889d",
+                "delta": "8.80",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Pastel Blue",
+                "hexColor": "#67859b",
+                "delta": "7.78",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Russ Grey (Layer)",
+        "hexColor": "#54758b",
+        "comparisons": [
+            {
+                "name": "Aquamarine ",
+                "hexColor": "#026bab",
+                "delta": "3.36",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Cygnar Blue Highlight ",
+                "hexColor": "#1f73ba",
+                "delta": "5.47",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Military Grey ",
+                "hexColor": "#506c78",
+                "delta": "15.41",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Heather Blue",
+                "hexColor": "#547c95",
+                "delta": "2.87",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Military Grey",
+                "hexColor": "#526c78",
+                "delta": "5.20",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Steel Grey",
+                "hexColor": "#64889d",
+                "delta": "8.80",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Grey Blue",
+                "hexColor": "#45708d",
+                "delta": "3.32",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "The Fang",
+        "hexColor": "#436276",
+        "comparisons": [
+            {
+                "name": "Marine Blue ",
+                "hexColor": "#2e618e",
+                "delta": "3.66",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Greatcoat Grey ",
+                "hexColor": "#4a565f",
+                "delta": "5.68",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Military Grey ",
+                "hexColor": "#506c78",
+                "delta": "15.41",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Coated Armor",
+                "hexColor": "#4c7183",
+                "delta": "8.28",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Military Grey",
+                "hexColor": "#526c78",
+                "delta": "5.20",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Cold Grey",
+                "hexColor": "#54646d",
+                "delta": "9.35",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Prussian Blue",
+                "hexColor": "#2a546e",
+                "delta": "4.65",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Teclis Blue (Layer)",
+        "hexColor": "#317fc1",
+        "comparisons": [
+            {
+                "name": "Light Blue ",
+                "hexColor": "#046cc4",
+                "delta": "7.46",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Cygnar Blue Highlight ",
+                "hexColor": "#1f73ba",
+                "delta": "5.47",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Dragon Blue ",
+                "hexColor": "#086cb7",
+                "delta": "8.58",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "True Blue",
+                "hexColor": "#007cba",
+                "delta": "3.48",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Dragon Blue",
+                "hexColor": "#026bb6",
+                "delta": "8.19",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Electric Blue",
+                "hexColor": "#008cbf",
+                "delta": "7.50",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Andrea Blue",
+                "hexColor": "#008dc9",
+                "delta": "6.58",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Eshin Grey (Layer)",
+        "hexColor": "#4a4f53",
+        "comparisons": [
+            {
+                "name": "Field Grey ",
+                "hexColor": "#4c5557",
+                "delta": "3.24",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Greatcoat Grey ",
+                "hexColor": "#4a565f",
+                "delta": "5.68",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Ash Grey ",
+                "hexColor": "#3a4d54",
+                "delta": "2.41",
+                "quality": "good",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Stormy Grey",
+                "hexColor": "#464646",
+                "delta": "4.26",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Ash Grey",
+                "hexColor": "#3a4d54",
+                "delta": "2.41",
+                "quality": "good",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Cold Grey",
+                "hexColor": "#54646d",
+                "delta": "9.35",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "London Grey",
+                "hexColor": "#4a555e",
+                "delta": "3.65",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Caledor Sky",
+        "hexColor": "#396f9e",
+        "comparisons": [
+            {
+                "name": "Aquamarine ",
+                "hexColor": "#026bab",
+                "delta": "3.36",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Cygnar Blue Highlight ",
+                "hexColor": "#1f73ba",
+                "delta": "5.47",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Dragon Blue ",
+                "hexColor": "#086cb7",
+                "delta": "8.58",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Ultramarine Highlight",
+                "hexColor": "#0076be",
+                "delta": "5.60",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Dragon Blue",
+                "hexColor": "#026bb6",
+                "delta": "8.19",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Sombre Grey",
+                "hexColor": "#4c5c7d",
+                "delta": "10.51",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Flat Blue",
+                "hexColor": "#336991",
+                "delta": "2.90",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Etherium Blue (Dry)",
+        "hexColor": "#a1b9d1",
+        "comparisons": [
+            {
+                "name": "Elven Grey ",
+                "hexColor": "#7a9ab1",
+                "delta": "13.50",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Underbelly Blue ",
+                "hexColor": "#bed2d8",
+                "delta": "9.72",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Concrete Grey ",
+                "hexColor": "#bcc1c4",
+                "delta": "9.63",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Snow Shadow",
+                "hexColor": "#7f93ac",
+                "delta": "11.29",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Granite Grey",
+                "hexColor": "#bac2c5",
+                "delta": "18.56",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Ghost Grey",
+                "hexColor": "#a7c5db",
+                "delta": "3.76",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Pale Grey Blue",
+                "hexColor": "#bacdd0",
+                "delta": "10.14",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Blue Horror (Layer)",
+        "hexColor": "#a2bad2",
+        "comparisons": [
+            {
+                "name": "Elven Grey ",
+                "hexColor": "#7a9ab1",
+                "delta": "13.50",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Underbelly Blue ",
+                "hexColor": "#bed2d8",
+                "delta": "9.72",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Concrete Grey ",
+                "hexColor": "#bcc1c4",
+                "delta": "9.63",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Snow Shadow",
+                "hexColor": "#7f93ac",
+                "delta": "11.29",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Granite Grey",
+                "hexColor": "#bac2c5",
+                "delta": "18.56",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Ghost Grey",
+                "hexColor": "#a7c5db",
+                "delta": "3.76",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Pale Grey Blue",
+                "hexColor": "#bacdd0",
+                "delta": "10.14",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Alaitoc Blue (Layer)",
+        "hexColor": "#295788",
+        "comparisons": [
+            {
+                "name": "Marine Blue ",
+                "hexColor": "#2e618e",
+                "delta": "3.66",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Cygnar Blue Base ",
+                "hexColor": "#124999",
+                "delta": "4.14",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Dragon Blue ",
+                "hexColor": "#086cb7",
+                "delta": "8.58",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Brilliant Blue",
+                "hexColor": "#01588e",
+                "delta": "3.19",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Bright Blue",
+                "hexColor": "#005a99",
+                "delta": "4.59",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Magic Blue",
+                "hexColor": "#024381",
+                "delta": "1.50",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Dark Blue",
+                "hexColor": "#0d5a86",
+                "delta": "4.33",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Hoeth Blue (Layer)",
+        "hexColor": "#4c7fb4",
+        "comparisons": [
+            {
+                "name": "Light Blue ",
+                "hexColor": "#046cc4",
+                "delta": "7.46",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Cygnar Blue Highlight ",
+                "hexColor": "#1f73ba",
+                "delta": "5.47",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Dragon Blue ",
+                "hexColor": "#086cb7",
+                "delta": "8.58",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Ultramarine Highlight",
+                "hexColor": "#0076be",
+                "delta": "5.60",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Dragon Blue",
+                "hexColor": "#026bb6",
+                "delta": "8.19",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Steel Grey",
+                "hexColor": "#64889d",
+                "delta": "8.80",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Pastel Blue",
+                "hexColor": "#67859b",
+                "delta": "7.78",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Macragge Blue",
+        "hexColor": "#0d407f",
+        "comparisons": [
+            {
+                "name": "Wizard Blue ",
+                "hexColor": "#023c8b",
+                "delta": "2.52",
+                "quality": "good",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Cygnar Blue Base ",
+                "hexColor": "#124999",
+                "delta": "4.14",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Nightsky Blue ",
+                "hexColor": "#053c5b",
+                "delta": "6.51",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Arthurian Blue",
+                "hexColor": "#01366c",
+                "delta": "3.68",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Ocean Blue",
+                "hexColor": "#03406f",
+                "delta": "3.09",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Magic Blue",
+                "hexColor": "#024381",
+                "delta": "1.50",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Blue",
+                "hexColor": "#043667",
+                "delta": "4.09",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Calgar Blue (Layer)",
+        "hexColor": "#4273b8",
+        "comparisons": [
+            {
+                "name": "Light Blue ",
+                "hexColor": "#046cc4",
+                "delta": "7.46",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Cygnar Blue Highlight ",
+                "hexColor": "#1f73ba",
+                "delta": "5.47",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Dragon Blue ",
+                "hexColor": "#086cb7",
+                "delta": "8.58",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Ultramarine Highlight",
+                "hexColor": "#0076be",
+                "delta": "5.60",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Dragon Blue",
+                "hexColor": "#026bb6",
+                "delta": "8.19",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Steel Grey",
+                "hexColor": "#64889d",
+                "delta": "8.80",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Flat Blue",
+                "hexColor": "#336991",
+                "delta": "2.90",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Altdorf Guard Blue (Layer)",
+        "hexColor": "#1f56a8",
+        "comparisons": [
+            {
+                "name": "Dark Blue ",
+                "hexColor": "#074895",
+                "delta": "4.94",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Cygnar Blue Base ",
+                "hexColor": "#124999",
+                "delta": "4.14",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Dragon Blue ",
+                "hexColor": "#086cb7",
+                "delta": "8.58",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Coalition Blue",
+                "hexColor": "#014e9c",
+                "delta": "3.18",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Bright Blue",
+                "hexColor": "#005a99",
+                "delta": "4.59",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Magic Blue",
+                "hexColor": "#024381",
+                "delta": "1.50",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Ultramarine",
+                "hexColor": "#3b5da7",
+                "delta": "3.38",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Kantor Blue",
+        "hexColor": "#002051",
+        "comparisons": [
+            {
+                "name": "Royal Blue ",
+                "hexColor": "#123d67",
+                "delta": "9.73",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Exile Blue ",
+                "hexColor": "#1e3166",
+                "delta": "5.61",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Twilight Purple ",
+                "hexColor": "#213165",
+                "delta": "5.71",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Ultramarine Shadow",
+                "hexColor": "#00223d",
+                "delta": "5.76",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Twilight Purple",
+                "hexColor": "#042966",
+                "delta": "3.83",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Royal Purple",
+                "hexColor": "#23264f",
+                "delta": "5.46",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Dark Prussian Blue",
+                "hexColor": "#192c43",
+                "delta": "7.37",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Dark Reaper (Layer)",
+        "hexColor": "#3c3c51",
+        "comparisons": [
+            {
+                "name": "Nauseous Blue ",
+                "hexColor": "#41386f",
+                "delta": "10.43",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Exile Blue ",
+                "hexColor": "#1e3166",
+                "delta": "5.61",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Twilight Purple ",
+                "hexColor": "#213165",
+                "delta": "5.71",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Twilight Blue",
+                "hexColor": "#384963",
+                "delta": "7.97",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Soft Purple",
+                "hexColor": "#484e6a",
+                "delta": "6.69",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Charred Brown",
+                "hexColor": "#39343b",
+                "delta": "7.30",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Oxford Blue",
+                "hexColor": "#3a465f",
+                "delta": "5.91",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Daemonette Hide",
+        "hexColor": "#696685",
+        "comparisons": [
+            {
+                "name": "Poison Purple ",
+                "hexColor": "#7c4679",
+                "delta": "13.28",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Greatcoat Grey ",
+                "hexColor": "#4a565f",
+                "delta": "5.68",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Military Grey ",
+                "hexColor": "#506c78",
+                "delta": "15.41",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Dark Elf Skin",
+                "hexColor": "#64575e",
+                "delta": "11.64",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Soft Purple",
+                "hexColor": "#484e6a",
+                "delta": "6.69",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Sombre Grey",
+                "hexColor": "#4c5c7d",
+                "delta": "10.51",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Blue Violet",
+                "hexColor": "#795c9a",
+                "delta": "3.94",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Warpfiend Grey (Layer)",
+        "hexColor": "#6c6a75",
+        "comparisons": [
+            {
+                "name": "Shadow Grey ",
+                "hexColor": "#666c6c",
+                "delta": "8.42",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Greatcoat Grey ",
+                "hexColor": "#4a565f",
+                "delta": "5.68",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Dirty Grey ",
+                "hexColor": "#7f756b",
+                "delta": "12.17",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Cloudy Grey",
+                "hexColor": "#707070",
+                "delta": "6.65",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Neutral Grey",
+                "hexColor": "#808185",
+                "delta": "9.75",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Cold Grey",
+                "hexColor": "#54646d",
+                "delta": "9.35",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "London Grey",
+                "hexColor": "#4a555e",
+                "delta": "3.65",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Slanesh Grey (Layer)",
+        "hexColor": "#8e8c97",
+        "comparisons": [
+            {
+                "name": "Elven Grey ",
+                "hexColor": "#7a9ab1",
+                "delta": "13.50",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Ironhull Grey ",
+                "hexColor": "#8c949a",
+                "delta": "6.80",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Dirty Grey ",
+                "hexColor": "#7f756b",
+                "delta": "12.17",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Dark Elf Highlight",
+                "hexColor": "#867f87",
+                "delta": "5.10",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Neutral Grey",
+                "hexColor": "#808185",
+                "delta": "9.75",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Stonewall Grey",
+                "hexColor": "#828e95",
+                "delta": "8.04",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Light Grey",
+                "hexColor": "#949c9a",
+                "delta": "10.44",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Genestealer Purple (Layer)",
+        "hexColor": "#7761aa",
+        "comparisons": [
+            {
+                "name": "Poison Purple ",
+                "hexColor": "#7c4679",
+                "delta": "13.28",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Greatcoat Grey ",
+                "hexColor": "#4a565f",
+                "delta": "5.68",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Military Grey ",
+                "hexColor": "#506c78",
+                "delta": "15.41",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Sunset Purple",
+                "hexColor": "#5a62b3",
+                "delta": "7.64",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Gemstone Purple",
+                "hexColor": "#724988",
+                "delta": "9.41",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Sombre Grey",
+                "hexColor": "#4c5c7d",
+                "delta": "10.51",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Blue Violet",
+                "hexColor": "#795c9a",
+                "delta": "3.94",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Naggaroth Night",
+        "hexColor": "#3e3355",
+        "comparisons": [
+            {
+                "name": "Nauseous Blue ",
+                "hexColor": "#41386f",
+                "delta": "10.43",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Beaten Purple ",
+                "hexColor": "#532870",
+                "delta": "10.05",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Gem Purple ",
+                "hexColor": "#47286e",
+                "delta": "9.13",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Imperial Purple",
+                "hexColor": "#634871",
+                "delta": "9.61",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Soft Purple",
+                "hexColor": "#484e6a",
+                "delta": "6.69",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Hexed Lichen",
+                "hexColor": "#34274d",
+                "delta": "3.88",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Violet",
+                "hexColor": "#4b2f65",
+                "delta": "6.30",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Dechala Lilac (Layer)",
+        "hexColor": "#b69fcd",
+        "comparisons": [
+            {
+                "name": "Shocking Pink ",
+                "hexColor": "#f2d6e5",
+                "delta": "16.78",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Ironhull Grey ",
+                "hexColor": "#8c949a",
+                "delta": "6.80",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Concrete Grey ",
+                "hexColor": "#bcc1c4",
+                "delta": "9.63",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "GREL Flesh",
+                "hexColor": "#c9bbd2",
+                "delta": "9.57",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Granite Grey",
+                "hexColor": "#bac2c5",
+                "delta": "18.56",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Squid Pink",
+                "hexColor": "#da7fb5",
+                "delta": "13.89",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Azure",
+                "hexColor": "#717cad",
+                "delta": "17.43",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Terminatus Stone (Dry)",
+        "hexColor": "#c7bbd3",
+        "comparisons": [
+            {
+                "name": "Shocking Pink ",
+                "hexColor": "#f2d6e5",
+                "delta": "16.78",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Carnal Pink ",
+                "hexColor": "#f8e0ea",
+                "delta": "11.27",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Concrete Grey ",
+                "hexColor": "#bcc1c4",
+                "delta": "9.63",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "GREL Flesh",
+                "hexColor": "#c9bbd2",
+                "delta": "9.57",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Granite Grey",
+                "hexColor": "#bac2c5",
+                "delta": "18.56",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Wolf Grey",
+                "hexColor": "#90a2bc",
+                "delta": "15.49",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Sky Grey",
+                "hexColor": "#b3b6b2",
+                "delta": "15.23",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Lucius Lilac (Dry)",
+        "hexColor": "#b69fcb",
+        "comparisons": [
+            {
+                "name": "Shocking Pink ",
+                "hexColor": "#f2d6e5",
+                "delta": "16.78",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Ironhull Grey ",
+                "hexColor": "#8c949a",
+                "delta": "6.80",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Concrete Grey ",
+                "hexColor": "#bcc1c4",
+                "delta": "9.63",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "GREL Flesh",
+                "hexColor": "#c9bbd2",
+                "delta": "9.57",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Granite Grey",
+                "hexColor": "#bac2c5",
+                "delta": "18.56",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Squid Pink",
+                "hexColor": "#da7fb5",
+                "delta": "13.89",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Azure",
+                "hexColor": "#717cad",
+                "delta": "17.43",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Xerus Purple (Layer)",
+        "hexColor": "#471f5e",
+        "comparisons": [
+            {
+                "name": "Nauseous Blue ",
+                "hexColor": "#41386f",
+                "delta": "10.43",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Beaten Purple ",
+                "hexColor": "#532870",
+                "delta": "10.05",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Gem Purple ",
+                "hexColor": "#47286e",
+                "delta": "9.13",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Clear Purple",
+                "hexColor": "#5e0c7b",
+                "delta": "7.12",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Sunset Purple",
+                "hexColor": "#45196d",
+                "delta": "4.14",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Heavy Violet",
+                "hexColor": "#4c2e65",
+                "delta": "4.03",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Royal Purple",
+                "hexColor": "#4b2967",
+                "delta": "2.73",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Pink Horror (Layer)",
+        "hexColor": "#91305d",
+        "comparisons": [
+            {
+                "name": "Poison Purple ",
+                "hexColor": "#7c4679",
+                "delta": "13.28",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Murderous Magenta ",
+                "hexColor": "#a61e5d",
+                "delta": "8.69",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Entrail Pink ",
+                "hexColor": "#c15d5d",
+                "delta": "20.16",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Pale Violet Red",
+                "hexColor": "#92335b",
+                "delta": "1.27",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Gemstone Purple",
+                "hexColor": "#724988",
+                "delta": "9.41",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Warlord Purple",
+                "hexColor": "#7d1a44",
+                "delta": "1.02",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Magenta",
+                "hexColor": "#a92a56",
+                "delta": "6.33",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Screamer Pink",
+        "hexColor": "#7c1645",
+        "comparisons": [
+            {
+                "name": "Amethyst Purple ",
+                "hexColor": "#572f4a",
+                "delta": "10.69",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Murderous Magenta ",
+                "hexColor": "#a61e5d",
+                "delta": "8.69",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Crimson Red ",
+                "hexColor": "#721213",
+                "delta": "5.03",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Royal Purple",
+                "hexColor": "#840053",
+                "delta": "4.48",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Brutal Purple",
+                "hexColor": "#381627",
+                "delta": "14.96",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Warlord Purple",
+                "hexColor": "#7d1a44",
+                "delta": "1.02",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Violet Red",
+                "hexColor": "#6b2946",
+                "delta": "4.88",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Changeling Pink (Dry)",
+        "hexColor": "#f4afce",
+        "comparisons": [
+            {
+                "name": "Shocking Pink ",
+                "hexColor": "#f2d6e5",
+                "delta": "16.78",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Carnal Pink ",
+                "hexColor": "#f8e0ea",
+                "delta": "11.27",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Concrete Grey ",
+                "hexColor": "#bcc1c4",
+                "delta": "9.63",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "GREL Flesh",
+                "hexColor": "#c9bbd2",
+                "delta": "9.57",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Granite Grey",
+                "hexColor": "#bac2c5",
+                "delta": "18.56",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Squid Pink",
+                "hexColor": "#da7fb5",
+                "delta": "13.89",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Pink",
+                "hexColor": "#d37497",
+                "delta": "14.99",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Emperor's Children (Layer)",
+        "hexColor": "#b94278",
+        "comparisons": [
+            {
+                "name": "Purple ",
+                "hexColor": "#e45399",
+                "delta": "10.94",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Murderous Magenta ",
+                "hexColor": "#a61e5d",
+                "delta": "8.69",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Entrail Pink ",
+                "hexColor": "#c15d5d",
+                "delta": "20.16",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Clear Magenta",
+                "hexColor": "#e4007b",
+                "delta": "7.35",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Entrail Pink",
+                "hexColor": "#b55c5c",
+                "delta": "6.57",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Tan",
+                "hexColor": "#9f4746",
+                "delta": "4.51",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Sunset Red",
+                "hexColor": "#c22c5f",
+                "delta": "6.62",
+                "quality": "ok",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Fulgrim Pink (Layer)",
+        "hexColor": "#f4afcc",
+        "comparisons": [
+            {
+                "name": "Shocking Pink ",
+                "hexColor": "#f2d6e5",
+                "delta": "16.78",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Carnal Pink ",
+                "hexColor": "#f8e0ea",
+                "delta": "11.27",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Concrete Grey ",
+                "hexColor": "#bcc1c4",
+                "delta": "9.63",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "GREL Flesh",
+                "hexColor": "#c9bbd2",
+                "delta": "9.57",
+                "quality": "bad",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Granite Grey",
+                "hexColor": "#bac2c5",
+                "delta": "18.56",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Squid Pink",
+                "hexColor": "#da7fb5",
+                "delta": "13.89",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Pink",
+                "hexColor": "#d37497",
+                "delta": "14.99",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Abaddon Black",
+        "hexColor": "#231f20",
+        "comparisons": [
+            {
+                "name": "Deadly Nightshade ",
+                "hexColor": "#121116",
+                "delta": "5.15",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Thamar Black ",
+                "hexColor": "#0a0a08",
+                "delta": "6.82",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Armor Grey ",
+                "hexColor": "#0e181a",
+                "delta": "9.14",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Noir Black",
+                "hexColor": "#26211e",
+                "delta": "2.87",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Faded Black",
+                "hexColor": "#161417",
+                "delta": "3.90",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Charred Brown",
+                "hexColor": "#39343b",
+                "delta": "7.30",
+                "quality": "bad",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Black",
+                "hexColor": "#252b31",
+                "delta": "7.18",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Doombull Brown (Layer)",
+        "hexColor": "#5d000a",
+        "comparisons": [
+            {
+                "name": "Warlock Purple ",
+                "hexColor": "#740d10",
+                "delta": "5.36",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Sanguine Base ",
+                "hexColor": "#67120d",
+                "delta": "4.10",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Crimson Red ",
+                "hexColor": "#721213",
+                "delta": "5.03",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Blackened Brown",
+                "hexColor": "#5d0400",
+                "delta": "2.99",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Crimson Red",
+                "hexColor": "#6e0f11",
+                "delta": "4.20",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Terracota",
+                "hexColor": "#6b1306",
+                "delta": "6.13",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "German Cam. Medium Brown",
+                "hexColor": "#722b2f",
+                "delta": "9.16",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Rhinox Hide",
+        "hexColor": "#493335",
+        "comparisons": [
+            {
+                "name": "Amethyst Purple ",
+                "hexColor": "#572f4a",
+                "delta": "10.69",
+                "quality": "bad",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Battlefield Brown ",
+                "hexColor": "#2f231a",
+                "delta": "7.02",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Ruddy Brown ",
+                "hexColor": "#722314",
+                "delta": "16.87",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Dusky Skin Shadow",
+                "hexColor": "#46373a",
+                "delta": "3.28",
+                "quality": "ok",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Sable Brown",
+                "hexColor": "#2b1823",
+                "delta": "9.79",
+                "quality": "bad",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Dark Fleshtone",
+                "hexColor": "#4f2b26",
+                "delta": "6.65",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Burnt Cadmium Red",
+                "hexColor": "#623535",
+                "delta": "8.24",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Evil Sunz Scarlet (Layer)",
+        "hexColor": "#c21920",
+        "comparisons": [
+            {
+                "name": "Angel Red ",
+                "hexColor": "#ca1905",
+                "delta": "5.43",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Skorne Red ",
+                "hexColor": "#ad1e22",
+                "delta": "8.93",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Rusty Red ",
+                "hexColor": "#b82f25",
+                "delta": "7.36",
+                "quality": "bad",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Fresh Blood",
+                "hexColor": "#be1a21",
+                "delta": "0.86",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Rusty Red",
+                "hexColor": "#b72c1c",
+                "delta": "3.41",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Bloody Red",
+                "hexColor": "#bf282e",
+                "delta": "2.83",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Red",
+                "hexColor": "#c32d2f",
+                "delta": "2.96",
+                "quality": "good",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Mephiston Red",
+        "hexColor": "#991115",
+        "comparisons": [
+            {
+                "name": "Warlock Purple ",
+                "hexColor": "#740d10",
+                "delta": "5.36",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Skorne Red ",
+                "hexColor": "#ad1e22",
+                "delta": "8.93",
+                "quality": "bad",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Crimson Red ",
+                "hexColor": "#721213",
+                "delta": "5.03",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Redrider Crimson",
+                "hexColor": "#9b090c",
+                "delta": "1.86",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Blood Red",
+                "hexColor": "#960202",
+                "delta": "2.74",
+                "quality": "good",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Gory Red",
+                "hexColor": "#810504",
+                "delta": "2.34",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Flat Red",
+                "hexColor": "#aa3037",
+                "delta": "10.59",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Wazdakka Red (Layer)",
+        "hexColor": "#8c0a0c",
+        "comparisons": [
+            {
+                "name": "Warlock Purple ",
+                "hexColor": "#740d10",
+                "delta": "5.36",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Sanguine Base ",
+                "hexColor": "#67120d",
+                "delta": "4.10",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Crimson Red ",
+                "hexColor": "#721213",
+                "delta": "5.03",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Clotted Red",
+                "hexColor": "#8b0003",
+                "delta": "1.34",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Blood Red",
+                "hexColor": "#960202",
+                "delta": "2.74",
+                "quality": "good",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Gory Red",
+                "hexColor": "#810504",
+                "delta": "2.34",
+                "quality": "good",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "Flat Red",
+                "hexColor": "#aa3037",
+                "delta": "10.59",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    },
+    {
+        "name": "Khorne Red",
+        "hexColor": "#6a0002",
+        "comparisons": [
+            {
+                "name": "Warlock Purple ",
+                "hexColor": "#740d10",
+                "delta": "5.36",
+                "quality": "ok",
+                "range": "Coat d'Arms"
+            },
+            {
+                "name": "Sanguine Base ",
+                "hexColor": "#67120d",
+                "delta": "4.10",
+                "quality": "ok",
+                "range": "Formula P3"
+            },
+            {
+                "name": "HD Crimson Red ",
+                "hexColor": "#721213",
+                "delta": "5.03",
+                "quality": "ok",
+                "range": "Reaper HD"
+            },
+            {
+                "name": "Bloodstain Red",
+                "hexColor": "#680001",
+                "delta": "0.40",
+                "quality": "good",
+                "range": "Reaper MSP"
+            },
+            {
+                "name": "Crimson Red",
+                "hexColor": "#6e0f11",
+                "delta": "4.20",
+                "quality": "ok",
+                "range": "Reaper Pro"
+            },
+            {
+                "name": "Terracota",
+                "hexColor": "#6b1306",
+                "delta": "6.13",
+                "quality": "ok",
+                "range": "Vallejo Game Color"
+            },
+            {
+                "name": "German Cam. Medium Brown",
+                "hexColor": "#722b2f",
+                "delta": "9.16",
+                "quality": "bad",
+                "range": "Vallejo Model Color"
+            }
+        ]
+    }
+]

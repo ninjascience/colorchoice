@@ -1,0 +1,41 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+tr {
+  margin: 0px;
+  border-bottom: 1px solid gray;
+}
+
+td {
+  vertical-align: top;
+  margin: 0; 
+  padding: 4px;
+}
+
+tr td:last-child {
+  border-right: 2px solid black;
+}
+
+.colorName {
+  border-left: 2px solid black;
+}
+
+.hexValue {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 14px;
+}
+
+.deltaValue {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.good {
+  color: green;
+}
